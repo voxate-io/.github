@@ -24,10 +24,9 @@ VOXATE.io aims to make digital contents more inclusive and enjoyable by:
 
 VOXATE.io prioritizes user security while promoting open source and ensuring openness in the development process and environment. In order to support other open source projects while developing VOXATE.io responsibly, the following steps and applications were used:
 
-- Email, Drive, VPN, Password Manager, Wallet, AI companion: [Proton](https://proton.me/community/open-source)
-- Autheticator: [Aegis](https://github.com/beemdevelopment/aegis)
+- Email, Drive, VPN, Password Manager, Wallet, AI companion, Authenticator: [Proton](https://proton.me/community/open-source)
 - Web Browser: [LibreWolf](https://librewolf.net/#main-features)
-- IDE: [Geany](https://geany.org/about/geany/), [VSCodium](https://vscodium.com/#why)
+- IDE: [VSCodium](https://vscodium.com/#why)
 - Text Editor: [Notepad&plus;&plus;](https://notepad-plus-plus.org/resources/#source-code-repository-access)
 - Android coding environment:
     - Terminal: [Termux](https://termux.dev/en/)
