@@ -35,4 +35,4 @@ VOXATE.io prioritizes user security while promoting open source and ensuring ope
 - Icon libraries: [FontAwesome](https://fontawesome.com/), [Iconify](https://iconify.design/)
 
 > [!NOTE]
-> While these were used during the development process, contributors are free to decide which application is best for them (e.g. contributors can choose to use VSCode instead of Geany as their IDE). **AI coding companion(s) should be used responsibly**.
+> While these were used during the development process, contributors are free to decide which application is best for them (e.g. contributors can choose to use VSCode instead of VSCodium as their IDE). **AI coding companion(s) should be used responsibly**.
