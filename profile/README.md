@@ -20,7 +20,7 @@ VOXATE.io aims to make digital contents more inclusive and enjoyable by:
 - Providing a high-quality alternative to expensive or unnatural-sounding TTS tools
 - Supporting accessibility and universal design in digital products
 
-### Open Source
+## Open Source
 
 VOXATE.io prioritizes user security while promoting open source and ensuring openness in the development process and environment. In order to support other open source projects while developing VOXATE.io responsibly, the following steps and applications were used:
 
@@ -28,11 +28,12 @@ VOXATE.io prioritizes user security while promoting open source and ensuring ope
 - Web Browser: [LibreWolf](https://librewolf.net/#main-features)
 - IDE: [VSCodium](https://vscodium.com/#why)
 - Text Editor: [Notepad&plus;&plus;](https://notepad-plus-plus.org/resources/#source-code-repository-access)
-- Android coding environment:
-    - Terminal: [Termux](https://termux.dev/en/)
-    - Coding Environment: [code-server](https://github.com/coder/code-server)
 - Image editors: [Graphite](https://github.com/GraphiteEditor/Graphite), [GIMP](https://gitlab.gnome.org/GNOME/gimp/-/tree/GIMP_3_0_4?ref_type=tags), [Inkscape](https://gitlab.com/inkscape/inkscape/-/tree/INKSCAPE_1_4_2?ref_type=tags)
 - Icon libraries: [FontAwesome](https://fontawesome.com/), [Iconify](https://iconify.design/)
 
 > [!NOTE]
 > While these were used during the development process, contributors are free to decide which application is best for them (e.g. contributors can choose to use VSCode instead of VSCodium as their IDE). **AI coding companion(s) should be used responsibly**.
+
+## Community
+
+VOXATE.io is made for the community (hopefully by community too soon), and is commited to create apps that are accessible by everyone.
